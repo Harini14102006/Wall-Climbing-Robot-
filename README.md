@@ -1,6 +1,5 @@
 # Wall-Climbing-Robot-
 Wall-climbing robotic apparatus concept and software simulation
-# Wall-Climbing Robotic Apparatus
 
 ## Project Overview
 This project proposes a wall-climbing robotic apparatus designed to combine wheel-based locomotion with an electromagnet-assisted adhesion mechanism and a servo-actuated scissor linkage.
